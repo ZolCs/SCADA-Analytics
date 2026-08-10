@@ -1,5 +1,3 @@
-<img width="526" height="357" alt="Temperature_change" src="https://github.com/user-attachments/assets/bc1adbd8-6454-47c2-a801-559c8a925eaa" />
-<img width="526" height="357" alt="Temperature_change" src="https://github.com/user-attachments/assets/8e87896f-eb9b-4930-add9-61e5996aa39b" />
 # SCADA Analytics – Industrial Data Simulation and Analysis
 
 ## About the Project
