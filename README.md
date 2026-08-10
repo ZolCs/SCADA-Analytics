@@ -1,3 +1,5 @@
+<img width="526" height="357" alt="Temperature_change" src="https://github.com/user-attachments/assets/bc1adbd8-6454-47c2-a801-559c8a925eaa" />
+<img width="526" height="357" alt="Temperature_change" src="https://github.com/user-attachments/assets/8e87896f-eb9b-4930-add9-61e5996aa39b" />
 # SCADA Analytics – Industrial Data Simulation and Analysis
 
 ## About the Project
@@ -117,7 +119,8 @@ The exploratory analysis was used to identify patterns in the generated process 
 
 ### Temperature Change Distribution
 
-![Temperature Change Distribution](images/temperature_histogram.png)
+<img width="526" height="357" alt="Temperature_change" src="https://github.com/user-attachments/assets/cf823068-cdaf-4369-8b8a-65dc4007f7b6" />
+
 
 The histogram revealed a large number of small temperature changes and a smaller number of significant changes.
 
@@ -131,15 +134,18 @@ The report provides several levels of information, starting with the current sys
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+<img width="935" height="525" alt="SCADA_Dashboard" src="https://github.com/user-attachments/assets/b5f8767d-183d-491d-90d6-35df9af167f3" />
+
 
 ### Historian Analysis
 
-![Historian Analysis](images/dashboard_historian.png)
+<img width="932" height="524" alt="SCADA_alerts" src="https://github.com/user-attachments/assets/be914685-2c28-480f-9ce5-07719ecf169d" />
+
 
 ### Event Analysis
 
-![Event Analysis](images/dashboard_event_analysis.png)
+<img width="929" height="526" alt="SCADA_Event" src="https://github.com/user-attachments/assets/537f9120-0451-4f1c-8f75-ce3aa74a47e3" />
+
 
 ## Key Learning Outcomes
 
