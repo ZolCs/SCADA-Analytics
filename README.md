@@ -118,7 +118,7 @@ The exploratory analysis was used to identify patterns in the generated process 
 ### Temperature Change Distribution
 
 <img width="526" height="357" alt="Temperature_change" src="https://github.com/user-attachments/assets/cf823068-cdaf-4369-8b8a-65dc4007f7b6" />
-
+<img width="509" height="352" alt="Temperature_change_2" src="https://github.com/user-attachments/assets/c7872395-3a41-4915-80bd-a1f0f9011fb4" />
 
 The histogram revealed a large number of small temperature changes and a smaller number of significant changes.
 
